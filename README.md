@@ -95,7 +95,8 @@ Após a geração da primeira versão funcional no Lovable, foram realizadas rod
 ### Interface da Aplicação em Execução
 Tela principal desenvolvida no Lovable com identidade visual SaaS moderna, navegação intuitiva e fluxo guiado em 3 etapas (*Seus dados ➔ Análise de compatibilidade ➔ Currículo otimizado*):
 
-![Interface do CVMatch AI](print-tela-inicial.png)
+![Interface do CVMatch AI](<img width="1366" height="607" alt="image" src="https://github.com/user-attachments/assets/b66e4c46-2566-48a6-822c-3195ce0ca8f3" />
+)
 
 ---
 
@@ -108,7 +109,8 @@ O sistema foi validado utilizando um caso de uso real de **Analista de Suporte T
   2. Mapeamento fiel de competências sem nenhuma informação inventada;
   3. Geração de PDF padronizado para ATS, com texto pesquisável, seções convencionais e hierarquia visual perfeita.
 
-![Demonstração do Currículo Otimizado em PDF](print-curriculo-pdf.png)
+![Demonstração do Currículo Otimizado em PDF](<img width="1051" height="583" alt="image" src="https://github.com/user-attachments/assets/4850013b-74ba-419b-83e5-c6bfb5a02513" />
+)
 
 ---
 
