@@ -109,8 +109,7 @@ O sistema foi validado utilizando um caso de uso real de **Analista de Suporte T
   2. Mapeamento fiel de competências sem nenhuma informação inventada;
   3. Geração de PDF padronizado para ATS, com texto pesquisável, seções convencionais e hierarquia visual perfeita.
 
-![Demonstração do Currículo Otimizado em PDF](<img width="1051" height="583" alt="image" src="https://github.com/user-attachments/assets/4850013b-74ba-419b-83e5-c6bfb5a02513" />
-)
+![Demonstração do Currículo Otimizado em PDF] (<img width="1051" height="583" alt="image" src="https://github.com/user-attachments/assets/4850013b-74ba-419b-83e5-c6bfb5a02513" />)
 
 ---
 
