@@ -95,8 +95,7 @@ Após a geração da primeira versão funcional no Lovable, foram realizadas rod
 ### Interface da Aplicação em Execução
 Tela principal desenvolvida no Lovable com identidade visual SaaS moderna, navegação intuitiva e fluxo guiado em 3 etapas (*Seus dados ➔ Análise de compatibilidade ➔ Currículo otimizado*):
 
-![Interface do CVMatch AI](<img width="1366" height="607" alt="image" src="https://github.com/user-attachments/assets/b66e4c46-2566-48a6-822c-3195ce0ca8f3" />
-)
+![Interface do CVMatch AI] (<img width="1366" height="607" alt="image" src="https://github.com/user-attachments/assets/b66e4c46-2566-48a6-822c-3195ce0ca8f3" />)
 
 ---
 
